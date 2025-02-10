@@ -1,28 +1,28 @@
 # RMproxy v1.0.1
 
-**RMproxy** je proxy nástroj určený pro kyberbezpečnost a zabezpečení.
+**RMproxy** is a proxy tool designed for cybersecurity and security purposes.
 
-## 📖 Nápověda
-Spusťte příkaz pro zobrazení nápovědy:
+## 📖 Help
+Run the command to view help:
 ```sh
 mproxy -h  # nebo
 mproxy --help
 ```
 
-## ⚡ Instalace
+## ⚡ Installation
 
-### Instalace přes PIP
-Pokud chcete nainstalovat RMproxy jednoduše přes PIP, použijte:
+### Installation via PIP
+If you want to install RMproxy easily via PIP, use:
 ```sh
 sudo pip3 install rmproxy
 ```
-Pokud narazíte na chybu, zkuste:
+If you encounter an error, try:
 ```sh
 sudo pip3 install rmproxy --break-system-packages
 ```
 
-### Ruční instalace
-Pokud chcete RMproxy nainstalovat manuálně, postupujte takto:
+### Manual Installation
+If you want to install RMproxy manually, follow these steps:
 ```sh
 git clone https://github.com/rasmnout/rmproxy
 cd rmproxy
@@ -31,5 +31,5 @@ pip3 install .
 ```
 
 ---
-📌 **RMproxy je součástí Rasmnout Tools**
+📌 **RMproxy is part of Rasmnout Tools**
 
