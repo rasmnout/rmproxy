@@ -5,7 +5,7 @@
 ## 📖 Help
 Run the command to view help:
 ```sh
-mproxy -h  # nebo
+mproxy -h
 mproxy --help
 ```
 
